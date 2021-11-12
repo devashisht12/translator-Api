@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap);
+#top1{
+    color: firebrick;
+    font-size: xx-large;
+   font-family: 'Mochiy Pop One', sans-serif;
+  background-color: sandybrown;
+   max-width: 100%;
+  height: 5rem;
+}
+
+.container{
+   color: violet;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+}
+
+#para1{
+    text-shadow: 0 0 3px royalblue,0 0 5px seagreen;
+    text-align: center;
+    font-size: xx-large;
+}
+#translation{
+    height: 5vh;
+    padding: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    display: block;
+    border: 1px solid rosybrown;
+    margin-top: 1rem;
+}
